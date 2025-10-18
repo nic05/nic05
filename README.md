@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nic05
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently into Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
